@@ -98,10 +98,7 @@
 
 <style>
    @import 'bootstrap/dist/css/bootstrap.min.css';
-  .error-message {
-    display: none;
-    color: red;
-    font-size: 12px;
+ 
   }
 </style>
 
