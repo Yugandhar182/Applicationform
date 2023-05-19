@@ -93,16 +93,6 @@
     }
   };
 </script>
-
-
-
-<style>
-   @import 'bootstrap/dist/css/bootstrap.min.css';
-</style>
-
-
-
-
 <div class="container mt-6">
   <form on:submit|preventDefault={validateForm}>
     <div class="form-group">
